@@ -8,10 +8,10 @@ A responsive and dynamic **Swiggy Clone** frontend application built using **Rea
 
 | Home Page | Categories | Online Delivery |
 |-----------|------------|-----------------|
-| ![Home]![image](https://github.com/user-attachments/assets/8258db27-34b0-4595-b711-772e1bec6e33)
- | ![Category]![image](https://github.com/user-attachments/assets/c41541e8-9872-4526-9480-030b1d850b32)
- | ![Online Delivery]![image](https://github.com/user-attachments/assets/485c8210-997f-45a1-938d-4a993caba99a)
- |
+| [Home]![image](https://github.com/user-attachments/assets/8258db27-34b0-4595-b711-772e1bec6e33)
+ | [Category]![image](https://github.com/user-attachments/assets/c41541e8-9872-4526-9480-030b1d850b32)
+ | [Online Delivery]![image](https://github.com/user-attachments/assets/485c8210-997f-45a1-938d-4a993caba99a)
+ 
 
 ---
 
@@ -30,10 +30,6 @@ A responsive and dynamic **Swiggy Clone** frontend application built using **Rea
 
 ```
 swiggy-clone/
-├── public/
-│   ├── images/               
-│   ├── category.json         # Static category data
-│   └── vite.svg
 ├── src/
 │   ├── assets/               
 │   ├── components/           # React components
@@ -52,10 +48,7 @@ swiggy-clone/
 │   │   ├── category.json
 │   │   └── restaurantChains.json
 │   └── index.js              # Express server
-├── .gitignore
-├── package.json
-├── vite.config.js
-└── README.md
+
 ```
 
 ---
@@ -94,6 +87,3 @@ API Server=> eg: http://localhost:3000
 ## ⭐️ Show Your Support
 
 If you found this project helpful, please consider giving it a ⭐️ on GitHub!
-
-```
-
